@@ -6,13 +6,19 @@
 
 [**🚀 See the bootstrap steps**](#getting-started) · [📚 Documentation](#documentation) · [🫶 Support](#support)
 
-**Leave a star ⭐ if you like this project 🙂 Thank you!**
+<p align="center">
+  <strong>Leave a star ⭐ if you like this project 🙂 Thank you!</strong>
+</p>
 
-## Overview
+<a name="overview"></a>
+
+## 🔍 Overview
 
 Bootstrap script for an APT-based environment. The repository contains `bootstrap.sh`, which refreshes package lists and installs `tmux`.
 
-## Getting started
+<a name="getting-started"></a>
+
+## 🚥 Getting started
 
 Review [bootstrap.sh](bootstrap.sh), then run it on the APT-based machine you want to configure:
 
@@ -22,17 +28,23 @@ bash bootstrap.sh
 
 The script uses `sudo` to update package lists and install `tmux`.
 
-## Documentation
+<a name="documentation"></a>
+
+## 📚 Documentation
 
 - [bootstrap.sh](bootstrap.sh)
 
-## Contributing
+<a name="contributing"></a>
+
+## 🤝 Contributing
 
 Ideas, bug reports, documentation fixes and focused changes are welcome through this repository's collaboration channels.
 
 Please include enough context to reproduce a problem or review a change.
 
-## Support
+<a name="support"></a>
+
+## 🫶 Support
 
 **🫶 Support the project**
 
@@ -42,6 +54,8 @@ Your contributions are vital in helping to sustain the development of open-sourc
 
 Thank you for helping me keep building and sharing! 🙏 See the [supporter directory](https://github.com/MRColorR/MRColorR/blob/main/SUPPORTERS.md).
 
-## License
+<a name="license"></a>
+
+## 📄 License
 
 A project license has not been declared in this repository. Contact the maintainer about reuse permissions.
